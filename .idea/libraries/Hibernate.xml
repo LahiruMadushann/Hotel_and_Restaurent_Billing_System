@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Hibernate">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../jafaFX/Hibernate" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../../jafaFX/Hibernate" recursive="false" />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="MySQL Connector">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../jafaFX/MySQL Connector" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../../jafaFX/MySQL Connector" recursive="false" />
+  </library>
+</component>
